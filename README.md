@@ -126,13 +126,9 @@ heroku apps:create
 git push heroku master
 ```
 
-## More Information
-  * Contact Amos Haviv on any issue via [E-Mail](mailto:mail@amoshaviv.com), [Facebook](http://www.facebook.com/amoshaviv), or [Twitter](http://www.twitter.com/amoshaviv).
-  * Visit us at [Linnovate.net](http://www.linnovate.net/).
-  * Visit our [Ninja's Zone](http://www.meanleanstartupmachine.com/) for extended support.
-
 ## Credits
 Inspired by the great work of [Madhusudhan Srinivasa](https://github.com/madhums/)
+...and by [Amos Haviv](https://github.com/amoshaviv), his [hard work](https://github.com/linnovate/mean) is the foundation of this project.
 
 ## License
 (The MIT License)
